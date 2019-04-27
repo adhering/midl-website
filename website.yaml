@@ -1,12 +1,9 @@
 title: "MIDL"
 theme: "midl-website-theme"
 primary-color: "#506775"
-content: "placeholder"
+content: "pages"
 
 nav:
   - title: "Home"
     path: "/"
     icon: "admin-home"
-  - title: "Organization"
-    path: "/organization.html"
-    icon: "groups"
