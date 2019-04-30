@@ -1,7 +1,8 @@
 title: "MIDL"
 theme: "midl-website-theme"
 primary-color: "#506775"
-content: "placeholder"
+content: "pages"
+twitter: ""
 
 nav:
   - title: "Home"
