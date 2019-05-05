@@ -1,3 +1,10 @@
-# MIDL website template
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e9c9c13-40dc-4bae-8012-9c2529596b3c/deploy-status)](https://app.netlify.com/sites/midl-io/deploys)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nlessmann/midl-website-template)
+# midl.io
+
+This repository contains the source code of the MIDL website.
+
+* Pages are files in `pages/` and can either be MarkDown (`.md`) or HTML (`.html`) files
+* Global settings, such as the navigation bar, are in `website.yaml`
+
+The website is automatically rebuild after every commit to the master branch.
