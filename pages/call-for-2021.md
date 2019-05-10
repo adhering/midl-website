@@ -3,7 +3,7 @@
 We invite interested researchers to host the MIDL 2021 conference. If we receive multiple interesting bids, we may also
 already decide on MIDL 2022.
 
-### Timeline
+## Timeline
 
 [% .timeline %]
 * **June 1, 2019**  
@@ -20,7 +20,7 @@ already decide on MIDL 2022.
 
 If you are interested in applying, please contact us at board@midl.io
 
-### Financial details
+## Financial details
 
 The first editions of MIDL were organized with support of local institutions, and local funds from the organizers and
 the small profits from previous editions were used for upfront payments for venue/gala dinner. If MIDL does not grow much
@@ -30,7 +30,7 @@ support from such a company and hope to provide details at MIDL 2019. For now, i
 a tentative budget and possibilities to take local responsibility for upfront payments for scenarios from 300 to 1200
 participants.
 
-### Contents of the bidbook
+## Contents of the bidbook
 
 * Proposed location (city), motivation for the location
 * Accessibility of the location
