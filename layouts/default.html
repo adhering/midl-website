@@ -1,0 +1,22 @@
+{% extends "_skeleton.html" %}
+
+{% block head %}
+<link rel="stylesheet" href="{{ stylesheets.default.path }}">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato|Roboto|Roboto+Slab">
+{% endblock %}
+
+{% block body %}
+<div id="content">
+    <header>
+        <a href="/">
+            <h2>International conference on</h2>
+            <h1>Medical Imaging with Deep Learning</h1>
+        </a>
+    </header>
+    <main>
+        <div id="page">
+            {{ content }}
+        </div>
+    </main>
+</div>
+{% endblock %}
