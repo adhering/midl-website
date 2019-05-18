@@ -1,4 +1,4 @@
-[% .cards %]
+[% .cards .small %]
 [![Amsterdam 2018](/images/card-small-2018.png)](https://midl.amsterdam)
 [![London 2019](/images/card-small-2019.png)](https://2019.midl.io)
 ![Montreal 2020](/images/card-small-2020.png)
