@@ -1,7 +1,9 @@
-# Call for MIDL 2021
+---
+title: Call for MIDL 2021
+---
 
-We invite interested researchers to host the MIDL 2021 conference. If we receive multiple interesting bids, we may also
-already decide on MIDL 2022.
+We invite interested researchers to host the MIDL 2021 conference.  
+If we receive multiple interesting bids, we may also already decide on MIDL 2022.
 
 ## Timeline
 
@@ -18,7 +20,7 @@ already decide on MIDL 2022.
   We hope to make decisions for MIDL 2021 and possibly MIDL 2022 in September.
 [% / %]
 
-If you are interested in applying, please contact us at board@midl.io
+If you are interested in applying, please contact us at [board@midl.io](mailto:board@midl.io)
 
 ## Financial details
 
