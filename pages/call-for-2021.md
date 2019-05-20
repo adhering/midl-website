@@ -37,7 +37,7 @@ participants.
 * Proposed location (city), motivation for the location
 * Accessibility of the location
 * Proposed dates (3 full days), early July is the target, compare collisions with other events in the city
-* Proposal for general chairs, program chairs, local organizers, advisors (names, google scholar profile link)
+* Proposal for general chairs, program chairs, local organizers, advisors (names, google scholar profile link). We encourage bids supported by diverse and inclusive teams.
 * Suggestions for venues, preferably multiple, with capacity for attendees (single track) and posters
 * Cost estimation for venues, with food/catering, strong/weak points of the venues
 * Optional: possibilities of local sponsorship, e.g., by university, tourism/conference office
