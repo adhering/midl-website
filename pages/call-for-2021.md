@@ -2,7 +2,7 @@
 title: Call for MIDL 2021
 ---
 
-We invite interested researchers to bif for organizing the MIDL 2021 conference.  
+We invite interested researchers to bid for organizing the MIDL 2021 conference.  
 If we receive multiple interesting bids, we may also already decide on MIDL 2022.
 
 ## Timeline
