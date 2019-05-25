@@ -2,14 +2,13 @@
 title: Call for MIDL 2021
 ---
 
-We invite interested researchers to bid for organizing the MIDL 2021 conference.  
-If we receive multiple interesting bids, we may also already decide on MIDL 2022.
+The MIDL Board is inviting interested researchers to bid for organizing the MIDL 2021 conference. If we receive multiple interesting bids, we may also already decide on MIDL 2022.
 
 ## Timeline
 
 [% .timeline %]
 * **June, 2019**  
-  Submission of an expression of interest. Include a short description of the organizing team and location. We will provide feedback on any bid. We aim for interested parties to submit a full bid shortly after MIDL 2019.  
+  Submission of an expression of interest. Include a short description of the organizing team and location. We will provide feedback on any bid and provide a bid template. We aim for interested parties to submit a full bid shortly after MIDL 2019.  
 * **July 8-10, 2019**  
   At MIDL 2019 in London, we will organize a meeting with the MIDL Board and those who expressed interest to organize MIDL 2021 or 2022. We will have an open discussion about where we see MIDL going. Prospective organizers can briefly present their bid.
 * **August, 2019**  
@@ -22,9 +21,7 @@ If you are interested in applying, please contact us at [board@midl.io](mailto:b
 
 ## Financial details
 
-The 2018 and 2019 editions of MIDL were organized with support of local institutions and local funds from the organizers. We also used
-the small profits from previous editions for upfront payments to e.g., the venue. The 2020 edition will likely be organized in a similar fashion. If MIDL does not grow much, it should be possible to stick to this way of organizing the conference. An alternative, and probably a necessity if MIDL grows, is to use a company that supports the organization of MIDL and takes financial risks. We are likely able to provide support from such a company and hope to provide details at MIDL 2019. For now, it would be good to indicate in the bid
-a tentative budget and possibilities to take local responsibility for upfront payments for scenarios from 300 to 1200 participants.
+The 2018 and 2019 editions of MIDL were organized with support and financial guarantees of local institutions and local funds from the organizers. We also used the small profits from previous editions for upfront payments for the venue or gala dinner. The 2020 edition will likely be organized in a similar fashion. If MIDL does not grow much, it should be possible to stick to this way of organizing the conference. An alternative, and probably a necessity if MIDL grows, is to use a company that supports the organization of MIDL and takes financial risks. We are likely able to provide support from such a company and hope to provide details at MIDL 2019. For now, it would be good to indicate in the bid a tentative budget and possibilities to take local financial responsibility for scenarios from 300 to 1200 participants.
 
 ## Contents of the bidbook
 
