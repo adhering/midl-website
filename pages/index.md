@@ -11,4 +11,4 @@ The International Conference on Medical Imaging with Deep Learning (MIDL) brings
 
 Follow us on [Twitter](https://twitter.com/midl_conference) for the latest news and updates.
 
-<p align=center><a href="https://twitter.com/midl_conference"><img src="/images/icons8-twitter-52.png"></a></p>
+<p align=center><a href="https://twitter.com/midl_conference"><img src="static/images/icons8-twitter-52.png"></a></p>
