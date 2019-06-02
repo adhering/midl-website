@@ -16,6 +16,18 @@
     <main>
         <div id="page">
             {{ content }}
+
+            <ul id="platforms"{% if permalink == '/' %} class="homepage"{% endif %}>
+                <li>
+                    <a href="https://twitter.com/midl_conference"><img alt="Follow MIDL on Twitter" src="/assets/platforms/twitter.svg"></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/channel/UCd87UPUTt-oqTeGi8fQw-_w/videos"><img alt="MIDL's channel on YouTube" src="/assets/platforms/youtube.svg"></a>
+                </li>
+                <li>
+                    <a href="https://github.com/MIDL-Conference/midl-website"><img alt="MIDL on GitHub" src="/assets/platforms/github.svg"></a>
+                </li>
+            </ul>
         </div>
     </main>
 </div>
