@@ -18,7 +18,7 @@ nav:
     icon: "fab fa-github"
   - title: "Proceedings"
     path: "https://openreview.net/group?id=MIDL.io"
-    icon: "fas fa-book-reader"
+    icon: "fas fa-book-open"
   - title: "CC BY-SA"
     path: "https://creativecommons.org/licenses/by-sa/4.0/"
     icon: "fab fa-creative-commons"
