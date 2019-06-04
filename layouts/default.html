@@ -2,6 +2,7 @@
 
 {% block head %}
 <link rel="stylesheet" href="{{ stylesheets.default.path }}">
+<link rel="stylesheet" href="{{ stylesheets.fontawesome.path }}">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato|Roboto|Roboto+Slab">
 {% endblock %}
 
@@ -18,18 +19,15 @@
             {{ content }}
 
             <ul id="platforms"{% if permalink == '/' %} class="homepage"{% endif %}>
-                <li>
-                    <a href="https://twitter.com/midl_conference"><img alt="Follow MIDL on Twitter" src="/assets/platforms/twitter.svg"></a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/channel/UCd87UPUTt-oqTeGi8fQw-_w/videos"><img alt="MIDL's channel on YouTube" src="/assets/platforms/youtube.svg"></a>
-                </li>
-                <li>
-                    <a href="https://github.com/MIDL-Conference/midl-website"><img alt="MIDL on GitHub" src="/assets/platforms/github.svg"></a>
-                </li>
-                <li>
-                    <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="CC BY-SA" src="/assets/platforms/creative-commons.svg"></a>
-                </li>
+                {% for page in config.nav %}
+                    {% if page.path != permalink %}
+                    <li>
+                        <a href="{{ page.path }}">
+                            <i class="{{ page.icon }}" title="{{ page.title|e }}"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                {% endfor %}
             </ul>
         </div>
     </main>
