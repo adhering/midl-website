@@ -1,7 +1,7 @@
 [% .cards .small %]
 [![Amsterdam 2018](/images/card-small-2018.png)](https://2018.midl.io)
 [![London 2019](/images/card-small-2019.png)](https://2019.midl.io)
-![Montreal 2020](/images/card-small-2020.png)
+[![Montreal 2020](/images/card-small-2020.png)](https://2020.midl.io)
 [![Call for 2021](/images/card-small-2021.png)](/call-for-2021.html)
 [% / %]
 
