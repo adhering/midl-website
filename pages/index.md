@@ -5,4 +5,4 @@
 [![Call for 2021](/images/card-small-2021.png)](/call-for-2021.html)
 [% / %]
 
-The International Conference on Medical Imaging with Deep Learning (MIDL) brings the community of deep learning and medical imaging researchers, clinicians and health-care companies together for in-depth discussion and exchange of ideas. Read more about the [aims and scope](/aims-and-scope.html).
+The International Conference on Medical Imaging with Deep Learning (MIDL) brings the community of deep learning and medical imaging researchers, clinicians and health-care companies together for in-depth discussion and exchange of ideas. Read more about the [aims and scope](/aims-and-scope.html) and our [code of conduct](/code-of-conduct.html).
