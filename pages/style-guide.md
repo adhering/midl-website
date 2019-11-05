@@ -58,5 +58,7 @@ The logo is provided by the MIDL society and should not be altered in any way.
 
 ### Website
 
-The websites use a system that ensures a consistent layout of all MIDL conference websites. In addition to the above styling
+The websites use a system that ensures a consistent layout of all MIDL conference websites (namely the
+[MIDL website builder](https://github.com/MIDL-Conference/midl-website-builder) and the
+[MIDL website theme](https://github.com/MIDL-Conference/midl-website-theme)). In addition to the above styling
 rules, please try to follow the styling of the websites of previous years as closely as possible.
