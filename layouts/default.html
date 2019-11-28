@@ -2,7 +2,7 @@
 
 {% block head %}
 <link rel="stylesheet" href="{{ stylesheets.default.path }}">
-<link rel="stylesheet" href="{{ stylesheets.fontawesome.path }}">
+<link rel="stylesheet" href="{{ config.cdn|default('') + stylesheets.fontawesome.path }}">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato|Roboto|Roboto+Slab">
 {% endblock %}
 

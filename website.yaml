@@ -25,3 +25,5 @@ nav:
   - title: "Send us an email"
     path: "mailto:board@midl.io"
     icon: "fas fa-envelope"
+
+cdn: "https://static.midl.io"
