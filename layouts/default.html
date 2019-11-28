@@ -19,7 +19,7 @@
             {{ content }}
 
             <ul id="platforms"{% if permalink == '/' %} class="homepage"{% endif %}>
-                {% for page in config.nav %}
+                {% for page in config.platforms %}
                     {% if page.path != permalink %}
                     <li>
                         <a href="{{ page.path }}">

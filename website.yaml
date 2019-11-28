@@ -3,7 +3,7 @@ theme: "midl-website-theme"
 primary-color: "#506775"
 content: "pages"
 
-nav:
+platforms:
   - title: "Homepage"
     path: "/"
     icon: "fas fa-home"
