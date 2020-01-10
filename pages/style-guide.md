@@ -13,8 +13,8 @@ website.
 
 Please use exclusively the following fonts:
 
-* [Roboto](https://fonts.google.com/specimen/Roboto) for text on screens, paired with [Lato](https://fonts.google.com/specimen/Lato) for headings.
-* [Lato ≥ 2.0](http://www.latofonts.com/lato-free-fonts/) in print, for both text and headings.
+* On screens (website, slides, etc): [Roboto](https://fonts.google.com/specimen/Roboto) for text blocks, [Lato](https://fonts.google.com/specimen/Lato) for headings and any enlarged text. If in doubt, use Lato.
+* In print: [Lato ≥ 2.0](http://www.latofonts.com/lato-free-fonts/) for both text and headings.
 * The MIDL logo uses Gill Sans MT, but this font should not be used anywhere else.
 
 Use bold and italic text as little as possible, with a few exceptions:
