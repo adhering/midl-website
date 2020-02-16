@@ -2,7 +2,7 @@
 title: "Articles of Association"
 ---
 
-Below is a translated from the original Statuten of the MIDL Foundation in Dutch. The translation was produced by [DeepL](https://www.deepl.com/en/translator) and edited by Bram van Ginneken.
+'''Below is a translated from the original Statuten of the MIDL Foundation in Dutch. The translation was produced by [DeepL](https://www.deepl.com/en/translator) and edited by Bram van Ginneken.'''
 
 Today, September 19, 2019, appeared before me, Mr. Johannes Petrus Wilhelmus Victor Hopmans, notary established at Nijmegen: Bram vna Ginneken. The person appearing declared by this deed that he would set up a foundation and for that purpose established the following articles of association:
 
@@ -91,7 +91,7 @@ may decide to reimburse travel and subsistence expenses for board members.
 
 ## TRANSITIONAL PROVISION
 ### Article 11.
-Contrary to the provisions of Article 4 paragraph 1, the first board consists of one person, the founder. This provision shall cease to have effect and shall be regarded as no longer forming part of these Articles of Association if and as soon as the foundation has provided for the appointment of two co-directors. 
+Contrary to the provisions of Article 4 paragraph 1, the first board consists of one person, the founder. This provision shall cease to have effect and shall be regarded as no longer forming part of these Articles of Association if and as soon as the foundation has provided for the appointment of two or more additional board members. 
 
 This deed was executed in Nijmegen on the date stated in the head of this deed.
 
