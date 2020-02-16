@@ -4,17 +4,15 @@ title: "Articles of Association"
 
 Below is a translated from the original Statuten of the MIDL Foundation procduced by https://www.deepl.com/en/translator and edited by Bram van Ginneken.
 
-Today, #, appeared before me, Mr. Johannes Petrus Wilhelmus Victor Hopmans, notary established at Nijmegen: #
-
-The person appearing declared by this deed that he would set up a foundation and for that purpose established the following articles of association:
+Today, September 19, 2019, appeared before me, Mr. Johannes Petrus Wilhelmus Victor Hopmans, notary established at Nijmegen: Bram vna Ginneken. The person appearing declared by this deed that he would set up a foundation and for that purpose established the following articles of association:
 
 ## NAME AND REGISTERED OFFICE STATUTES
-Article 1.
+### Article 1.
 1. The foundation shall be known as the MIDL Foundation.
 2. The foundation is located in the municipality of Nijmegen.
 
-AIM
-Article 2.
+## AIM
+### Article 2.
 1. The aim of the foundation is: to stimulate research in the field of medical imaging and image analysis, deep learning, machine learning, artificial intelligence, and all other scientific fields related to it.
 2. The foundation tries to achieve its goal by, among other things: organizing and supporting
 conferences, meetings, publications and activities in the above field, and the acquisition of funds for these activities. One of these meetings is the annual MIDL (Medical Imaging with Deep Learning) conference.
