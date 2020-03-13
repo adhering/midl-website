@@ -9,4 +9,4 @@ Medical Imaging with Deep Learning (MIDL) brings the community of deep learning 
 
 We will soon issue a call for the organization of MIDL in 2022. Prospective organizers will be invited to present their bid during MIDL 2020 in Montréal.
 
-MIDL is organized by the MIDL Foundation, a non-profit legal entity in The Netherlands, listed in the commercial register under number 75867699.
+MIDL is organized by the [MIDL Foundation]90/foundation.html).
