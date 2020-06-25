@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4e9c9c13-40dc-4bae-8012-9c2529596b3c/deploy-status)](https://app.netlify.com/sites/midl-io/deploys)
+![Netlify Status](https://api.netlify.com/api/v1/badges/4e9c9c13-40dc-4bae-8012-9c2529596b3c/deploy-status)
 
 # midl.io
 
