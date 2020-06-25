@@ -14,7 +14,7 @@ platforms:
     path: "https://www.youtube.com/channel/UCd87UPUTt-oqTeGi8fQw-_w/videos"
     icon: "fab fa-youtube"
   - title: "MIDL on GitHub"
-    path: "https://github.com/MIDL-Conference/midl-website"
+    path: "https://github.com/MIDL-Conference"
     icon: "fab fa-github"
   - title: "Proceedings"
     path: "https://openreview.net/group?id=MIDL.io"
