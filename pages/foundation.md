@@ -14,7 +14,7 @@ The complete Articles of Association of the MIDL Foundation can be found [here](
 
 The MIDL Foundation is governed by an Executive Board consisting of
 
-* [Ivana Išgum](https://www.amc.nl/web/research-75/person-1/i.-isgum.htm), chairman
+* [Ivana Išgum](https://www.amc.nl/web/research-75/person-1/i.-isgum.htm), chair
 * [Geert Litjens](https://www.computationalpathologygroup.eu/members/geert-litjens/), secretary
 * [Bram van Ginneken](http://diagnijmegen.nl/index.php/Person?name=Bram_van_Ginneken), treasurer
 * [Tom Vercauteren](https://www.kcl.ac.uk/people/tom-vercauteren), member
