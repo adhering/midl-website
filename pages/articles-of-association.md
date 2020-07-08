@@ -4,7 +4,7 @@ title: "Articles of Association"
 
 Below is a translation from the original Statuten of the MIDL Foundation in Dutch. The translation was produced by [DeepL](https://www.deepl.com/en/translator) and edited by Bram van Ginneken.
 
-Today, September 19, 2019, appeared before me, Mr. Johannes Petrus Wilhelmus Victor Hopmans, notary established at Nijmegen: Bram vna Ginneken. The person appearing declared by this deed that he would set up a foundation and for that purpose established the following articles of association:
+Today, September 19, 2019, appeared before me, Mr. Johannes Petrus Wilhelmus Victor Hopmans, notary established at Nijmegen: Bram van Ginneken. The person appearing declared by this deed that he would set up a foundation and for that purpose established the following articles of association:
 
 ## NAME AND REGISTERED OFFICE STATUTES
 ### Article 1.
