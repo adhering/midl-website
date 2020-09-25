@@ -23,7 +23,7 @@ If you are interested in applying, please contact us at [board@midl.io](mailto:b
 
 ## Financial details
 
-The 2018 and 2019 editions of MIDL were organized with support and financial guarantees of local institutions and local funds from the organizers. We also used the small profits from previous editions for upfront payments for the venue or gala dinner. The 2020 edition was organized in a similar fashion. If MIDL does not grow much, it should be possible to stick to this way of organizing the conference. For now, it would be good to indicate in the bid a tentative budget and possibilities to take local financial responsibility for scenarios from 300 to 1200 participants.
+The 2018 and 2019 editions of MIDL were organized with support and financial guarantees of local institutions and local funds from the organizers. We also used the small profits from previous editions for upfront payments for the venue or gala dinner. The 2020 edition was organized in a similar fashion. If MIDL does not grow much, it should be possible to stick to this way of organizing the conference. For now, it would be important to indicate in the bid a tentative budget and possibilities to take local financial responsibility for scenarios from 300 to 1200 participants.
 
 (remove this: An alternative, and probably a necessity if MIDL grows, is to use a company that supports the organization of MIDL and takes financial risks. We are likely able to provide support from such a company and hope to provide details at MIDL 2019.)
 
