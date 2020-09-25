@@ -2,7 +2,7 @@
 title: Call for MIDL 2022
 ---
 
-The MIDL Board is inviting interested researchers to bid for organizing the MIDL 2022 or (optionally) MIDL 2023 conference. If we receive multiple strong bids, we may also already decide on MIDL 2023.
+The MIDL Board is inviting interested researchers to bid for organizing the MIDL 2022 and (optionally) MIDL 2023 conference. If we receive multiple strong bids, we may also already decide on MIDL 2023.
 
 
 ## Timeline
