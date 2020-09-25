@@ -7,7 +7,7 @@ The MIDL Board is inviting interested researchers to bid for organizing the MIDL
 ## Timeline
 
 [% .timeline %]
-* **June 15, 2020**  
+* **October 30, 2020**  
   Submission of a bid book. Please follow more or less the structure of the Montreal bid book. 
   Please provide as much detail as possible, but it is okay if certain details are not know yet at this stage. We will provide feedback on any bid via e-mail or during the MIDL 2020 meeting. and provide a bid template.
 * **July 6-8, 2020**  
