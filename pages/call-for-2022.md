@@ -10,7 +10,7 @@ The MIDL Board is inviting interested researchers to bid for organizing the MIDL
 [% .timeline %]
 * **November 6, 2020**  
   Submission of a bid book. Please follow more or less the structure of the bid book of MIDL 2020. 
-  Please provide as much detail as possible, but it is okay if certain details are not know yet at this stage. We will provide feedback on any bid via e-mail or call, and provide a bid template.
+  Please provide as much detail as possible, but it is okay if certain details are not know yet at this stage. We will provide feedback on any bid via e-mail or call.
 * **Nov 15-30, 2020**  
   We will organize a meeting with the MIDL Board and those who expressed interest to organize MIDL 2022 or 2023. Prospective organizers can briefly present their bid followed by an open discussion.
 * **January 30, 2021**  
