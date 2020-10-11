@@ -7,7 +7,7 @@
 
 Medical Imaging with Deep Learning (MIDL) brings the community of deep learning and medical imaging researchers, clinicians and health-care companies together for in-depth discussion and exchange of ideas. To learn more about MIDL, read our [aims and scope](/aims-and-scope.html) and visit the conference sites listed above. MIDL is organized by the [MIDL Foundation](/foundation.html).
 
-We will soon issue a call for the organization of MIDL in 2022 and 2023.
+We invite interested researchers to express their interest in [organizing MIDL 2022 or 2023](/call-for-2022.html) before November 15, 2020.
 
 {% from "_macros.html" import newsletter %}
 {{ newsletter() }}
