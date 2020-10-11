@@ -9,5 +9,4 @@ Medical Imaging with Deep Learning (MIDL) brings the community of deep learning 
 
 We invite interested researchers to express their interest in [organizing MIDL 2022 or 2023](/call-for-2022.html) before November 15, 2020.
 
-{% from "_macros.html" import newsletter %}
-{{ newsletter() }}
+To stay up-to-date about MIDL, please [subscribe to our newsletter](http://eepurl.com/g9u2c5).
