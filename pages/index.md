@@ -14,4 +14,4 @@ MIDL is organized by the [MIDL Foundation](/foundation.html).
 ---
 
 {% from "_macros.html" import newsletter %}
-{{ newsletter(inline=True) }}
+{{ newsletter("midl.io") }}
