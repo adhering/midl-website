@@ -9,8 +9,6 @@ Medical Imaging with Deep Learning (MIDL) brings the community of deep learning 
 
 MIDL is organized by the [MIDL Foundation](/foundation.html).
 
-**We invite interested researchers to express their interest in organizing MIDL in 2022.** [Call for organizers of MIDL 2022](/call-for-2022.html)
-
 ---
 
 {% from "_macros.html" import newsletter %}
