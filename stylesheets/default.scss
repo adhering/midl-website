@@ -65,7 +65,7 @@ body {
 
     .cards {
       text-align: center;
-      margin-bottom: 38px;
+      margin-bottom: 24px;
 
       p {
         margin: 0;
@@ -74,8 +74,12 @@ body {
         align-items: start;
         flex-wrap: wrap;
 
+        @media (max-width: 1280px) {
+          justify-content: space-around;
+        }
+
         img {
-          border: 1px solid #c8c8c8;
+          border: 1px solid #d2d2d2;
         }
 
         a, & > img {
@@ -94,19 +98,28 @@ body {
         }
       }
 
-      &.medium p {
-        a, & > img {
-          width: 31.75%;
-        }
-      }
-
       &.large p {
         a, & > img {
-          width: 48%;
+          width: 528px;
 
           @media (max-width: 699px) {
             width: 100%;
           }
+        }
+      }
+    }
+
+    .cards-mini {
+      p {
+        display: flex;
+        align-items: start;
+        flex-wrap: wrap;
+        gap: 12px;
+        padding-top: 6px;
+
+        a img {
+          width: 170px;
+          height: 170px;
         }
       }
     }
