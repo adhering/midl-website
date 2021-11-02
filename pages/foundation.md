@@ -22,5 +22,7 @@ The MIDL Foundation is governed by an Executive Board consisting of
 Additional board members:
 
 * [Nikolas Lessmann](https://www.diagnijmegen.nl/people/nikolas-lessmann/), communication
+* [Alessa Hering](https://www.mevis.fraunhofer.de/en/employees/alessa-hering.html), online events
+* [Jannis Hagenah](https://eng.ox.ac.uk/people/jannis-hagenah/), online events
 
 Researchers in the MIDL community that want to be actively involved in the yearly organization of MIDL or help shape the meeting in other ways are invited to contact the MIDL board at [board@midl.io](mailto:board@midl.io).
