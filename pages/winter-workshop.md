@@ -35,7 +35,7 @@ You can register for the Glühwein-Lecture, including the get together, here:
 
 One core part of the Winter Workshop is to support young researchers in taking their first steps towards authoring a publication or serving as a reviewer. Therefore, the event hosts two workshop tracks that will be run in parallel, namely „How to write an award-winning paper“ and „How to write an outstanding review“. Both workshops will feature an introductory tutorial and an intense hands-on session in small groups, guided by an experienced moderator. Due to the strategic date of the Winter Workshop, the participants will be directly prepared to submit to or review for MIDL 2022.
 
-### How to write an award-winning paper
+### How to write an award-winning paper ![Portrait of Hoel Kervadec](/images/pic_hoel.jpg){: width="180" }
 
 You want to submit your research to MIDL 2022 but you have troubles putting it all together on 8 pages? You do not have a lot of experience with writing papers or you just want to impress the reviewers with your next submission? Join this workshop to learn how to make your paper award-winning!
 After a tutorial full of valuable hints, dos and don’ts, there will be an intense hands-on session in smaller groups, guided by an experienced moderator. In this session, you will discuss and fine-tune your own manuscript. So, if you are planning to submit to MIDL 2022, bring your first draft and go out with a substantially revised version.
@@ -44,27 +44,26 @@ We are happy that the workshop will be led by Dr. Hoel Kervadec from Erasmus MC.
 
 (Foto, Bio)
 
-![Portrait of Hoel Kervadec](/images/pic_hoel.jpg){: width="180" }
+
 
 You can register for the workshop here:
 
 {{ button("Registration for Workshop: Paper Writing", "https://forms.gle/bT1ntUTK9RquMx9U6") }}
 
-### How to write an outstanding review
+### How to write an outstanding review ![Portrait of Ender Konukoglu](/images/pic_ender.jpg){: width="180" }
 
 You were invited to review for MIDL 2022, for another venue or even a journal? You want to take your first steps in writing reviews independently or you just want t become more efficient in doing so? Join this workshop to learn how to write outstanding reviews.
 After a tutorial loaded with hints from experienced, senior colleagues, you will discuss and improve your very own reviews in small groups. You will learn how to open up your own mind to grasp a manuscript from different perspectives and you will rate exemplary reviews.
 
 We are proud that the workshop will be led by Prof. Dr. Ender Konukoglu from ETH Zürich.
 
-![Portrait of Ender Konukoglu](/images/pic_ender.jpg){: width="180" }
+
 
 You can register for the workshop here:
 
 {{ button("Registration for Workshop: Reviewing", "https://forms.gle/cwjzaZBReCwKSGpg7") }}
 
 ## Timetable
-
 ### (All times CET)
 
 | Program                                              || Time Slot 		|
