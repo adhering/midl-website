@@ -39,7 +39,7 @@ One core part of the Winter Workshop is to support young researchers in taking t
 You want to submit your research to MIDL 2022 but you have troubles putting it all together on 8 pages? You do not have a lot of experience with writing papers or you just want to impress the reviewers with your next submission? Join this workshop to learn how to make your paper award-winning!
 After a tutorial full of valuable hints, dos and don’ts, there will be an intense hands-on session in smaller groups, guided by an experienced moderator. In this session, you will discuss and fine-tune your own manuscript. So, if you are planning to submit to MIDL 2022, bring your first draft and go out with a substantially revised version.
 
-We are happy that the workshop will be led by [Dr. Hoel Kervadec](https://hoel.kervadec.science) from Erasmus MC. ![Portrait of Hoel Kervadec](/images/pic_hoel.jpg){: width="180" }
+We are happy that the workshop will be led by [Dr. Hoel Kervadec](https://hoel.kervadec.science) from Erasmus MC. ![Portrait of Hoel Kervadec](/images/pic_hoel.jpg){:style="float:right", width="180" }
 
 You can register for the workshop here:
 
