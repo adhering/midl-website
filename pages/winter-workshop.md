@@ -17,7 +17,7 @@ One thing the pandemic taught us is that even though a virtual event cannot subs
 The Winter Workshop 2021 will take place at 01.12.2021 as a virtual event using Gather.Town. It will be divided into two workshop tracks that run in parallel followed by the „Glühwein-Lecture“ and get together. While the latter part is open to the whole community, the workshops are specifically designed to support young researchers in taking their first steps towards authoring a publication or serving as a reviewer.
 Thanks to our sponsor Fraunhofer IMTE, the event will be free of charge. however, a mandatory registration is necessary.
 
-Please note that a registration for one of the workshops (see link below) includes participation in the Glühwein-Lecture, so no additional registration is necessary. If you just want to attend the Glühwein-Lecture and the get together, please register independently here [Link].
+Please note that a registration for one of the workshops (see link below) includes participation in the Glühwein-Lecture, so no additional registration is necessary. If you just want to attend the Glühwein-Lecture and the get together, please register independently [here EXCHANGE LINK]("https://en.wikipedia.org/wiki/Albert_Einstein").
 
 ## Glühwein-Lecture ![Portrait of Tingtig Zhu](/images/pic_tingting.jpg){:style="float:right", width="180" }
 
