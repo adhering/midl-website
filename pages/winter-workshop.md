@@ -5,7 +5,7 @@ title: "Winter workshop"
 {% from "_macros.html" import button %}
 
 
-![MIDL Winter Workshop](/images/winterworkshop_background.jpg){: align="center", width="800" }
+![MIDL Winter Workshop](/images/winterworkshop_background.jpg){: align="center", width="2000" }
 
 
 # MIDL Winter Workshop 2021
