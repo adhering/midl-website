@@ -16,14 +16,13 @@ Thanks to our sponsor Fraunhofer IMTE, the event will be free of charge. however
 
 Please note that a registration for one of the workshops (see link below) includes participation in the Glühwein-Lecture, so no additional registration is necessary. If you just want to attend the Glühwein-Lecture and the get together, please register independently here [Link].
 
-## Glühwein-Lecture
+## Glühwein-Lecture ![Portrait of Tingtig Zhu](/images/pic_tingting.png){: width="180" }
 
 The Glühwein-Lecture is an honorary keynote to get broader perspectives and novel insights from leading figures in the healthcare technology domain.
-We are happy to announce that this years Glühwein-Lecture will be held by Dr. Tingting Zhu from the University of Oxford. The topic of the talk will be „Healthcare Technology in Ressource-Constraint Settings“.
+We are happy to announce that this years Glühwein-Lecture will be held by Dr. Tingting Zhu from the University of Oxford. The topic of the talk will be „Healthcare Technology in Ressource-Constrained Settings“.
 
 (Foto, Bio, Abstract)
 
-![Portrait of Tingtig Zhu](/images/pic_tingting.png){: width="180" }
 
 Following the lecture, there will be a virtual get-together. Everyone is encouraged to prepare Glühwein or non-alcoholic „Punsch“ on their own, there will be helpful resources uploaded soon.
 
