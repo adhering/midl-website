@@ -5,6 +5,9 @@ title: "Winter workshop"
 {% from "_macros.html" import button %}
 
 
+![MIDL Winter Workshop](/images/winterworkshop_background.jpg){: width="500" }
+
+
 # MIDL Winter Workshop 2021
 
 The MIDL Foundation is proud to present the launch of its first independant online event series: The MIDL Winter Workshop!
