@@ -23,6 +23,8 @@ We are happy to announce that this years Glühwein-Lecture will be held by Dr. T
 
 (Foto, Bio, Abstract)
 
+![Portrait of Tingtig Zhu](/images/pic_tingting.png){: width="180" }
+
 Following the lecture, there will be a virtual get-together. Everyone is encouraged to prepare Glühwein or non-alcoholic „Punsch“ on their own, there will be helpful resources uploaded soon.
 
 You can register for the Glühwein-Lecture, including the get together, here:
@@ -42,6 +44,8 @@ We are happy that the workshop will be led by Dr. Hoel Kervadec from Erasmus MC.
 
 (Foto, Bio)
 
+![Portrait of Hoel Kervadec](/images/pic_hoel.jpg){: width="180" }
+
 You can register for the workshop here:
 
 {{ button("Registration for Workshop: Paper Writing", "https://forms.gle/bT1ntUTK9RquMx9U6") }}
@@ -52,6 +56,8 @@ You were invited to review for MIDL 2022, for another venue or even a journal? Y
 After a tutorial loaded with hints from experienced, senior colleagues, you will discuss and improve your very own reviews in small groups. You will learn how to open up your own mind to grasp a manuscript from different perspectives and you will rate exemplary reviews.
 
 We are proud that the workshop will be led by Prof. Dr. Ender Konukoglu from ETH Zürich.
+
+![Portrait of Ender Konukoglu](/images/pic_ender.jpg){: width="180" }
 
 You can register for the workshop here:
 
