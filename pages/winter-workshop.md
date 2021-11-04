@@ -27,7 +27,7 @@ Following the lecture, there will be a virtual get-together. Everyone is encoura
 
 You can register for the Glühwein-Lecture, including the get together, here:
 
-{{ button("Registration for Glühwein-Lecture", "https://en.wikipedia.org/wiki/Albert_Einstein") }}
+{{ button("Registration for Glühwein-Lecture, EXCHANGE LINK!", "https://en.wikipedia.org/wiki/Albert_Einstein") }}
 
 ## Workshops
 
@@ -42,7 +42,9 @@ We are happy that the workshop will be led by Dr. Hoel Kervadec from Erasmus MC.
 
 (Foto, Bio)
 
-You can register for the workshop here [Link]
+You can register for the workshop here:
+
+{{ button("Registration for Workshop: Paper Writing", "https://forms.gle/bT1ntUTK9RquMx9U6") }}
 
 ### How to write an outstanding review
 
@@ -51,8 +53,30 @@ After a tutorial loaded with hints from experienced, senior colleagues, you will
 
 We are proud that the workshop will be led by Prof. Dr. Ender Konukoglu from ETH Zürich.
 
-You can register for the workshop here [Link]
+You can register for the workshop here:
+
+{{ button("Registration for Workshop: Reviewing", "https://forms.gle/cwjzaZBReCwKSGpg7") }}
 
 ## Timetable
 
-Coming soon…
+### (All times CET)
+
+| Program                                              || Time Slot 		|
+| --------                                             || --------  		|
+| Welcome for Workshop Participants                    || 14:00 - 14:15     |
+| Workshops: Tutorial Talks (both tracks)              || 14:15 - 15:15     |
+| Break                                                || 15:15 - 15:30     |
+| Workshops: Hands-on Session Part 1 (both tracks)     || 15:30 - 16:30     |
+| Break                                                || 16:45 - 17:00     |
+| Workshops: Hands-on Session Part 2 (both tracks)     || 17:00 - 17:45     |
+| Workshops: Closing                                   || 17:45 - 18:00     |
+| Breal                                                || 18:00 - 19:00     |
+| Welcome for Glühwein Lecture (open for all)          || 19:00 - 19:15     |
+| Glühwein Lecture                                     || 19:15 - 20:00     |
+| Get Together                                         || starting 20:00    |
+
+## Organization
+
+* [Alessa Hering](https://www.mevis.fraunhofer.de/en/employees/alessa-hering.html), Fraunhofer MEVIS & Radboudumc Nijmegen
+* [Jannis Hagenah](https://eng.ox.ac.uk/chi/), Department of Engineering Science, University of Oxford, UK
+
