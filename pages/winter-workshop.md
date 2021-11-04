@@ -66,7 +66,7 @@ You can register for the workshop here:
 | Break                                                || 16:45 - 17:00     |
 | Workshops: Hands-on Session Part 2 (both tracks)     || 17:00 - 17:45     |
 | Workshops: Closing                                   || 17:45 - 18:00     |
-| Break (Glühwein Preparation from 18:30 on)           | 18:00 - 19:00     |
+| Break (Glühwein Preparation from 18:30 on)           || 18:00 - 19:00     |
 | Welcome for Glühwein Lecture (open for all)          || 19:00 - 19:15     |
 | Glühwein Lecture                                     || 19:15 - 20:00     |
 | Get Together                                         || starting 20:00    |
