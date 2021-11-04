@@ -2,6 +2,9 @@
 title: "Winter workshop"
 ---
 
+{% from "_macros.html" import button %}
+
+
 # MIDL Winter Workshop 2021
 
 The MIDL Foundation is proud to present the launch of its first independant online event series: The MIDL Winter Workshop!
@@ -22,7 +25,9 @@ We are happy to announce that this years Glühwein-Lecture will be held by Dr. T
 
 Following the lecture, there will be a virtual get-together. Everyone is encouraged to prepare Glühwein or non-alcoholic „Punsch“ on their own, there will be helpful resources uploaded soon.
 
-You can register for the Glühwein-Lecture, including the get together, here [Link]
+You can register for the Glühwein-Lecture, including the get together, here:
+
+{{ button("Registration for Glühwein-Lecture", "https://en.wikipedia.org/wiki/Albert_Einstein") }}
 
 ## Workshops
 
