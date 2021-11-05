@@ -76,3 +76,7 @@ You can register for the workshop here:
 * [Alessa Hering](https://www.mevis.fraunhofer.de/en/employees/alessa-hering.html), Fraunhofer MEVIS & Radboudumc Nijmegen
 * [Jannis Hagenah](https://eng.ox.ac.uk/chi/), Department of Engineering Science, University of Oxford, UK
 
+## Sponsor
+
+[![Fraunhofer IMTE](/images/imte.png)](https://www.imte.fraunhofer.de/en.html)
+
