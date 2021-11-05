@@ -78,5 +78,5 @@ You can register for the workshop here:
 
 ## Sponsor
 
-[![Fraunhofer IMTE](/images/imte.png)](https://www.imte.fraunhofer.de/en.html)
+[![Fraunhofer IMTE](/images/imte.png){:align="center", width="360" }](https://www.imte.fraunhofer.de/en.html)
 
