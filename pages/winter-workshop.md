@@ -10,12 +10,12 @@ title: "Winter workshop"
 
 # MIDL Winter Workshop 2021
 
-The MIDL Foundation is proud to present the launch of its first independant online event series: The MIDL Winter Workshop!
+The MIDL Foundation is proud to present the launch of its first independant online event series: The MIDL Winter Workshop! Two parallel workshops, specifically designed for young researchers, and an evening event for the whole community.
 
 One thing the pandemic taught us is that even though a virtual event cannot substitute a live conference experience, it can be an easy and comfortable way to bring the community together on a more regular basis. So here it is: The winter event to come together in early December to discuss our ideas before submitting them to MIDL 2022.
 
 The Winter Workshop 2021 will take place at 01.12.2021 as a virtual event using Gather.Town. It will be divided into two workshop tracks that run in parallel followed by the „Glühwein-Lecture“ and get together. While the latter part is open to the whole community, the workshops are specifically designed to support young researchers in taking their first steps towards authoring a publication or serving as a reviewer.
-Thanks to our sponsor Fraunhofer IMTE, the event will be free of charge. however, a mandatory registration is necessary.
+Thanks to our sponsor [Fraunhofer IMTE](https://www.imte.fraunhofer.de/en.html), the event will be free of charge. However, a mandatory registration is necessary.
 
 Please note that a registration for one of the workshops (see link below) includes participation in the Glühwein-Lecture, so no additional registration is necessary. If you just want to attend the Glühwein-Lecture and the get together, please register independently [here EXCHANGE LINK]("https://en.wikipedia.org/wiki/Albert_Einstein").
 
@@ -38,7 +38,7 @@ One core part of the Winter Workshop is to support young researchers in taking t
 
 You want to submit your research to MIDL 2022 but you have troubles putting it all together on 8 pages? You do not have a lot of experience with writing papers or you just want to impress the reviewers with your next submission? Join this workshop to learn how to make your paper award-winning!
 After a tutorial full of valuable hints, dos and don’ts, there will be an intense hands-on session in smaller groups, guided by an experienced moderator. In this session, you will discuss and fine-tune your own manuscript. So, if you are planning to submit to MIDL 2022, bring your first draft and go out with a substantially revised version.
-We are happy that the workshop will be led by [Dr. Hoel Kervadec](https://hoel.kervadec.science) from Erasmus MC. 
+We are happy that the workshop will be led by [Dr. Hoel Kervadec](https://hoel.kervadec.science) from Erasmus MC. He will be supported by [Annika Reinke](https://www.dkfz.de/en/cami/team/people/Annika_Reinke.html), [Steffen Czolbe](https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Fsteffen-czolbe(1767ec13-391b-470d-aab8-5b0b8c802cc0)%2Fpublications.html) and [Prof. Dr. Mattias Heinrich](https://www.imi.uni-luebeck.de/institut/mitarbeiter/heinrich-mattias.html).
 
 You can register for the workshop here:
 
