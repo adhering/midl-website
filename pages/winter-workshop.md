@@ -8,7 +8,7 @@ title: "Winter workshop"
 ![MIDL Winter Workshop](/images/winter-workshop/background_cropped.jpg)
 
 
-<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">MIDL Winter Workshop 2021</h1>
+<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Winter Workshop 2021</h1>
 
 The MIDL Foundation is proud to present the launch of its first independent online event series: The MIDL Winter Workshop! Two parallel workshops, specifically designed for young researchers, and an evening event for the whole community.
 
