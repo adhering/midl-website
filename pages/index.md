@@ -1,9 +1,6 @@
 [% .cards .large %]
 <a href="/winter-workshop.html">
-    <img alt="Winter Workshop 2021"
-         src="/cdn-cgi/image/width=528,quality=90/images/cards/card-large-ww2021.jpg"         
-         srcset="/cdn-cgi/image/width=528,quality=90/images/cards/card-large-ww2021.jpg,
-                 /cdn-cgi/image/width=1052,quality=80/images/cards/card-large-ww2021.jpg 2x">
+    <img alt="Winter Workshop 2021" src="/cdn-cgi/image/width=528,q=90/images/cards/card-large-ww2021.jpg" srcset="/cdn-cgi/image/width=1052,q=85,f=auto/images/cards/card-large-ww2021.jpg 2x">
 </a>
 [![Zürich 2022](/images/cards/card-large-2022.jpg)](https://2022.midl.io)
 [% / %]
@@ -18,10 +15,7 @@ MIDL is organized by the [MIDL Foundation](/foundation.html) and its [Board](/bo
 
 [% .cards-mini %]
 <a href="https://2021.midl.io">
-    <img alt="Lübeck 2021"
-         src="/cdn-cgi/image/width=170,quality=90/images/cards/card-mini-2021.jpg"         
-         srcset="/cdn-cgi/image/width=170,quality=90/images/cards/card-mini-2021.jpg,
-                 /cdn-cgi/image/width=340,quality=80/images/cards/card-mini-2021.jpg 2x">
+    <img alt="Lübeck 2021" src="/cdn-cgi/image/width=170,q=90/images/cards/card-mini-2021.jpg" srcset="/cdn-cgi/image/width=340,q=85,f=auto/images/cards/card-mini-2021.jpg 2x">
 </a>
 [![Montréal 2020](/images/cards/card-mini-2020.png)](https://2020.midl.io)
 [![London 2019](/images/cards/card-mini-2019.png)](https://2019.midl.io)
