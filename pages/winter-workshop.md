@@ -52,7 +52,7 @@ You can register for the workshop here:
 
 You were invited to review for MIDL 2022, for another venue or even a journal? You want to take your first steps in writing reviews independently, or you just want t become more efficient in doing so? Join this workshop to learn how to write outstanding reviews.
 After a tutorial loaded with hints from experienced, senior colleagues, you will discuss and improve your very own reviews in small groups. You will learn how to open up your own mind to grasp a manuscript from different perspectives, and you will rate exemplary reviews.
-We are proud that the workshop will be led by [Prof. Dr. Ender Konukoglu](http://people.ee.ethz.ch/~kender/) from ETH Zürich. 
+We are proud that the workshop will be led by [Prof. Dr. Ender Konukoglu](http://people.ee.ethz.ch/~kender/) from ETH Zürich. He will be supported by [Dr. Nikolas Lessmann](https://www.diagnijmegen.nl/people/nikolas-lessmann/).
 
 You can register for the workshop here:
 
