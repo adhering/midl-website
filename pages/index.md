@@ -12,7 +12,7 @@ MIDL is organized by the [MIDL Foundation](/foundation.html) and its [Board](/bo
 ### Past editions
 
 [% .cards-mini %]
-[![Lübeck 2021](/images/cards/card-mini-2021.png)](https://2021.midl.io)
+[![Lübeck 2021](/cdn-cgi/image/width=170,quality=80/images/cards/card-mini-2021.jpg)](https://2021.midl.io)
 [![Montréal 2020](/images/cards/card-mini-2020.png)](https://2020.midl.io)
 [![London 2019](/images/cards/card-mini-2019.png)](https://2019.midl.io)
 [![Amsterdam 2018](/images/cards/card-mini-2018.png)](https://2018.midl.io)
