@@ -28,7 +28,7 @@ Please note that a registration for one of the workshops (see link below) includ
 The Glühwein-Lecture is an honorary keynote to get broader perspectives and novel insights from leading figures in the healthcare technology domain.
 We are happy to announce that this year's Glühwein-Lecture will be held by [Dr. Tingting Zhu](https://eng.ox.ac.uk/people/tingting-zhu/) from the University of Oxford. The topic of the talk will be „Healthcare Technology in Resource-Constrained Settings“.
 
-Following the lecture, there will be a virtual get-together. Everyone is encouraged to prepare [Glühwein](https://en.wikipedia.org/wiki/Mulled_wine) or non-alcoholic [Punsch][https://en.wikipedia.org/wiki/Punch_(drink)] on their own, there will be helpful resources uploaded soon.
+Following the lecture, there will be a virtual get-together. Everyone is encouraged to prepare [Glühwein](https://en.wikipedia.org/wiki/Mulled_wine) or non-alcoholic [Punsch](https://en.wikipedia.org/wiki/Punch_(drink)) on their own, there will be helpful resources uploaded soon.
 
 You can register for the Glühwein-Lecture, including the get-together, here:
 
