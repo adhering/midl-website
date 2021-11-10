@@ -3,6 +3,8 @@ theme: "midl-website-theme"
 primary-color: "#506775"
 content: "pages"
 
+www: "https://www.midl.io"
+
 platforms:
   - title: "Homepage"
     path: "/"
