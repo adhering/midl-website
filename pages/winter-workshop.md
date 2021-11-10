@@ -1,5 +1,7 @@
 ---
 title: "Winter workshop"
+opengraph:
+  image: "/images/winter-workshop/social.jpg"
 ---
 
 {% from "_macros.html" import button %}
