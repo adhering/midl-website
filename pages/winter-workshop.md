@@ -69,6 +69,7 @@ You can register for the workshop here:
 [% .invisible-table %]
 | Program                                              | Time Slot         |
 | --------                                             | ---------         |
+| Check-In and Coffee Round                            | 13:30 - 14:00     |
 | Welcome for Workshop Participants                    | 14:00 - 14:15     |
 | Workshops: Tutorial Talks (both tracks)              | 14:15 - 15:15     |
 | Break                                                | 15:15 - 15:30     |
