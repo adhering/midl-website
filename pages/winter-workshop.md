@@ -46,9 +46,8 @@ You want to submit your research to MIDL 2022, but you have troubles putting it 
 After a tutorial full of valuable hints, dos and don’ts, there will be an intense hands-on session in smaller groups, guided by an experienced moderator. In this session, you will discuss and fine-tune your own manuscript. So if you are planning to submit to MIDL 2022, bring your first draft and go out with a substantially revised version.
 We are happy that the workshop will be led by [Dr. Hoel Kervadec](https://hoel.kervadec.science) from Erasmus MC. He will be supported by [Annika Reinke](https://www.dkfz.de/en/cami/team/people/Annika_Reinke.html), [Steffen Czolbe](https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Fsteffen-czolbe(1767ec13-391b-470d-aab8-5b0b8c802cc0)%2Fpublications.html), [Hristina Uzunova](https://www.imi.uni-luebeck.de/institut/mitarbeiter/uzunova-hristina.html), [Dr. David Kohan Marzagão](https://kohan.uk) and [Dr. Nikolas Lessmann](https://www.diagnijmegen.nl/people/nikolas-lessmann/).
 
-You can register for the workshop here:
+All available places for this workshop are booked. However, feel free to register for the Glühwein-Lecture.
 
-{{ button("Registration for Workshop: Paper Writing", "https://forms.gle/bT1ntUTK9RquMx9U6") }}
 
 ### How to write an outstanding review ![Portrait of Ender Konukoglu](/images/winter-workshop/pic_ender.jpg){: class="align-right" width="180" }
 
@@ -56,9 +55,7 @@ You were invited to review for MIDL 2022, for another venue or even a journal? Y
 After a tutorial loaded with hints from experienced, senior colleagues, you will discuss and improve your very own reviews in small groups. You will learn how to open up your own mind to grasp a manuscript from different perspectives, and you will rate exemplary reviews.
 We are proud that the workshop will be led by [Prof. Dr. Ender Konukoglu](http://people.ee.ethz.ch/~kender/) from ETH Zürich. He will be supported by [Prof. Dr. Mattias Heinrich](https://www.imi.uni-luebeck.de/institut/mitarbeiter/heinrich-mattias.html) and [Prof. Dr. Maria Vakalopoulou](https://www.centralesupelec.fr/en/msc-artificial-intelligence-faculty).
 
-You can register for the workshop here:
-
-{{ button("Registration for Workshop: Reviewing", "https://forms.gle/cwjzaZBReCwKSGpg7") }}
+All available places for this workshop are booked. However, feel free to register for the Glühwein-Lecture.
 
 ---
 
