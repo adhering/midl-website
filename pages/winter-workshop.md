@@ -97,11 +97,11 @@ All available places for this workshop are booked. However, feel free to registe
 ### Glühwein (Mulled Wine) Recipe:
 
 You need:
-1 Bottle of dry red wine
-1 Orange
-2 Cinnamon Sticks
-3 Cloves
-4-6 Teaspoons of sugar or honey
+* 1 Bottle of dry red wine
+* 1 Orange
+* 2 Cinnamon Sticks
+* 3 Cloves
+* 4-6 Teaspoons of sugar or honey
 
 Put Wine in cooking pot and warm it up. Attention: Do not cook it, the alcohol would evaporate!
 Slice the orange and at it, together with the other ingredients, to the wine.
@@ -114,8 +114,8 @@ Replace red wine with grape juice. The rest is identical.
 ### Embarrassingly simple Punch Recipe:
 
 You need:
-Apple juice
-Cinnamon (Sticks or powder)
+* Apple juice
+* Cinnamon (Sticks or powder)
 
 Add some cinnamon to the apple juice and heat it. Yes, that’s it! It even works in the microwave (we tried it). 
 Also works well with an additional bit of Rum.
