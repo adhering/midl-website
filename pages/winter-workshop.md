@@ -28,7 +28,7 @@ Please note that a registration for one of the workshops (see link below) includ
 The Glühwein-Lecture is an honorary keynote to get broader perspectives and novel insights from leading figures in the healthcare technology domain.
 We are happy to announce that this year's Glühwein-Lecture will be held by [Dr. Tingting Zhu](https://eng.ox.ac.uk/people/tingting-zhu/) from the University of Oxford. The topic of the talk will be „Healthcare Technology in Resource-Constrained Settings“.
 
-Following the lecture, there will be a virtual get-together. Everyone is encouraged to prepare [Glühwein](https://en.wikipedia.org/wiki/Mulled_wine) or non-alcoholic [Punsch](https://en.wikipedia.org/wiki/Punch_(drink)) on their own, there will be helpful resources uploaded soon.
+Following the lecture, there will be a virtual get-together. Everyone is encouraged to prepare [Glühwein](https://en.wikipedia.org/wiki/Mulled_wine) or non-alcoholic [Punsch](https://en.wikipedia.org/wiki/Punch_(drink)) on their own, you can find recipes below.
 
 You can register for the Glühwein-Lecture, including the get-together, here:
 
@@ -90,3 +90,37 @@ All available places for this workshop are booked. However, feel free to registe
 [% .logos %]
 [![Fraunhofer IMTE](/images/winter-workshop/imte.svg){: width="360" }](https://www.imte.fraunhofer.de/en.html)
 [% / %]
+
+
+## Glühwein Recipes
+
+### Glühwein (Mulled Wine) Recipe:
+
+You need:
+1 Bottle of dry red wine
+1 Orange
+2 Cinnamon Sticks
+3 Cloves
+4-6 Teaspoons of sugar or honey
+
+Put Wine in cooking pot and warm it up. Attention: Do not cook it, the alcohol would evaporate!
+Slice the orange and at it, together with the other ingredients, to the wine.
+Let the wine infuse for a while. The optimal length depends on your preferences: The longer the stronger. Most recipes recommend one hour of infusion.
+
+Non-alcoholic variant:
+Replace red wine with grape juice. The rest is identical.
+
+
+### Embarrassingly simple Punch Recipe:
+
+You need:
+Apple juice
+Cinnamon (Sticks or powder)
+
+Add some cinnamon to the apple juice and heat it. Yes, that’s it! It even works in the microwave (we tried it). 
+Also works well with an additional bit of Rum.
+
+
+
+
+
