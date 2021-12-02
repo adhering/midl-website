@@ -19,8 +19,6 @@ One thing the pandemic taught us is that even though a virtual event cannot subs
 The Winter Workshop 2021 will take place on **1 December 2021** as a virtual event using Gather.Town. It will be divided into two workshop tracks that run in parallel followed by the „Glühwein-Lecture“ and get-together. While the latter part is open to the whole community, the workshops are specifically designed to support young researchers in taking their first steps towards authoring a publication or serving as a reviewer.
 Thanks to our sponsor [Fraunhofer IMTE](https://www.imte.fraunhofer.de/en.html), the event will be free of charge. However, a mandatory registration is necessary.
 
-Please note that a registration for one of the workshops (see link below) includes participation in the Glühwein-Lecture, so no additional registration is necessary. If you just want to attend the Glühwein-Lecture and the get-together, please register independently [here](https://forms.gle/pP4nccCi5LKmWrUx6).
-
 ---
 
 ## Glühwein-Lecture ![Portrait of Tingting Zhu](/images/winter-workshop/pic_tingting.jpg){: class="align-right" width="180" }
@@ -29,10 +27,6 @@ The Glühwein-Lecture is an honorary keynote to get broader perspectives and nov
 We are happy to announce that this year's Glühwein-Lecture will be held by [Dr. Tingting Zhu](https://eng.ox.ac.uk/people/tingting-zhu/) from the University of Oxford. The topic of the talk will be „Healthcare Technology in Resource-Constrained Settings“.
 
 Following the lecture, there will be a virtual get-together. Everyone is encouraged to prepare [Glühwein](https://en.wikipedia.org/wiki/Mulled_wine) or non-alcoholic [Punsch](https://en.wikipedia.org/wiki/Punch_(drink)) on their own, you can find recipes below.
-
-You can register for the Glühwein-Lecture, including the get-together, here:
-
-{{ button("Registration for Glühwein-Lecture", "https://forms.gle/pP4nccCi5LKmWrUx6") }}
 
 ---
 
@@ -121,8 +115,3 @@ You need:
 
 Add some cinnamon to the apple juice and heat it. Yes, that’s it! It even works in the microwave (we tried it). 
 Also works well with an additional bit of Rum.
-
-
-
-
-
