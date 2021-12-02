@@ -85,6 +85,7 @@ All available places for this workshop are booked. However, feel free to registe
 [![Fraunhofer IMTE](/images/winter-workshop/imte.svg){: width="360" }](https://www.imte.fraunhofer.de/en.html)
 [% / %]
 
+---
 
 ## Glühwein Recipes
 
