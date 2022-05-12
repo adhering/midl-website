@@ -34,25 +34,16 @@ Don't worry, we will prepare you well! The event starts with a short course "How
 
 ## Timetable
 
-TODO!
-
 (all times CET)
 
 [% .invisible-table %]
 | Program                                              | Time Slot         |
 | --------                                             | ---------         |
-| Check-In and Coffee Round                            | 13:30 - 14:00     |
-| Welcome for Workshop Participants                    | 14:00 - 14:15     |
-| Workshops: Tutorial Talks (both tracks)              | 14:15 - 15:15     |
-| Break                                                | 15:15 - 15:30     |
-| Workshops: Hands-on Session Part 1 (both tracks)     | 15:30 - 16:30     |
-| Break                                                | 16:45 - 17:00     |
-| Workshops: Hands-on Session Part 2 (both tracks)     | 17:00 - 17:45     |
-| Workshops: Closing                                   | 17:45 - 18:00     |
-| Break (Glühwein Preparation from 18:30 on)           | 18:00 - 19:00     |
-| Welcome for Glühwein Lecture (open for all)          | 19:00 - 19:15     |
-| Glühwein Lecture                                     | 19:15 - 20:00     |
-| Get-Together                                         | starting 20:00    |
+| Check-In and Coffee Round                            | 19:00 - 19:05     |
+| Welcome for Participants                             | 19:05 - 19:15     |
+| Presentation "How to MIDL 101" with Q&A              | 19:15 - 20:00     |
+| Bingo and Bar                                        | 20:00 - 20:45     |
+| Speed-Dating with Seniors and Open Bar               | starting 20:45    |
 [% / %]
 
 
@@ -60,14 +51,6 @@ TODO!
 
 ---
 
-## Glühwein-Lecture ![Portrait of Tingting Zhu](/images/winter-workshop/pic_tingting.jpg){: class="align-right" width="180" }
-
-The Glühwein-Lecture is an honorary keynote to get broader perspectives and novel insights from leading figures in the healthcare technology domain.
-We are happy to announce that this year's Glühwein-Lecture will be held by [Dr. Tingting Zhu](https://eng.ox.ac.uk/people/tingting-zhu/) from the University of Oxford. The topic of the talk will be „Healthcare Technology in Resource-Constrained Settings“.
-
-Following the lecture, there will be a virtual get-together. Everyone is encouraged to prepare [Glühwein](https://en.wikipedia.org/wiki/Mulled_wine) or non-alcoholic [Punsch](https://en.wikipedia.org/wiki/Punch_(drink)) on their own, you can find recipes below.
-
----
 
 ## Organization
 
