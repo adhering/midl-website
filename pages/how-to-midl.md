@@ -7,7 +7,7 @@ opengraph:
 {% from "_macros.html" import button %}
 
 
-![How to MIDL - The Virtual Pre-Conference Kick-Off](/images/winter-workshop/background_cropped.jpg)
+![How to MIDL - The Virtual Pre-Conference Kick-Off](/images/conference-kickoff/Logo_Large.jpg)
 
 
 <h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">How to MIDL - The virtual Pre-Conference Bootcamp</h1>
