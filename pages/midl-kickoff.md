@@ -13,7 +13,7 @@ opengraph:
 <h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">How to MIDL - The virtual Pre-Conference Bootcamp</h1>
 
 
-You are attending your first MIDL? Maybe it is your first in-person conference or even your forst conference at all? 
+You are attending your first MIDL? Maybe it is your first in-person conference or even your first conference at all? 
 Or, after long years of virtual events, you feel like your social skills might need a polishing before joining the MIDL-crowd in person again?
 Here is the perfect event for you to kick-off your conference experience!
 
