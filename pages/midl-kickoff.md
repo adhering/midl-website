@@ -32,9 +32,8 @@ Don't worry, we will prepare you well! The event starts with a short course "How
 
 ---
 
-## Timetable
+## Timetable 29.06.2022
 
-Date: 29.06.2029 
 (all times CET)
 
 [% .invisible-table %]
@@ -52,7 +51,7 @@ Date: 29.06.2029
 
 ## Registration
 
-For this event, a registration is mandatory. Plase register [here] before **15.06.2022, 23:59 CEST**!
+For this event, a registration is mandatory. Plase [register here](https://forms.gle/a4aU2hk87VaymfFMA) before **15.06.2022, 23:59 CEST**!
 The event is **free of charge** for participants, but there are costs on our side, so we may have to limit the number of participants. So please be fair and join the kickoff once you have registered. 
 
 
