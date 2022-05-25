@@ -54,5 +54,5 @@ Don't worry, we will prepare you well! The event starts with a short course "How
 
 ## Organization
 
-* [Alessa Hering](https://www.mevis.fraunhofer.de/en/employees/alessa-hering.html), Fraunhofer MEVIS & Radboudumc Nijmegen, <alessa.hering@mevis.fraunhofer.de>
-* [Jannis Hagenah](https://eng.ox.ac.uk/chi/), Department of Engineering Science, University of Oxford, UK, <jannis.hagenah@eng.ox.ac.uk>
+* [Alessa Hering](https://www.diagnijmegen.nl/people/alessa-hering/), Radboudumc Nijmegen & Fraunhofer MEVIS, <Alessa.Hering@radboudumc.nl>
+* [Jannis Hagenah](https://eng.ox.ac.uk/people/jannis-hagenah/), Department of Engineering Science, University of Oxford, UK, <jannis.hagenah@eng.ox.ac.uk>
