@@ -19,7 +19,7 @@ Here is the perfect event for you to kick-off your conference experience!
 
 Whether you are new to the community and don't want to go to the Zürich alone or you are a MIDL veteran who cannot wait to see your peers again to push your excitement for Switzerland: Meet up with with fellow young researchers from all over the world who are going to attend MIDL 2022 in person just before you head off to Zürich.
 
-The event will take place on **29.06.2022** as a **virtual event** via Gather.Town and addresses young researchers (in its broadest sense) that will attend MIDL 2022 in person.
+The event will take place on **29 June 2022** as a **virtual event** via Gather.Town and addresses young researchers (in its broadest sense) that will attend MIDL 2022 in person.
 
 ---
 
@@ -32,7 +32,7 @@ Don't worry, we will prepare you well! The event starts with a short course "How
 
 ---
 
-## Timetable 29.06.2022
+## Timetable 29 June 2022
 
 (all times CET)
 
@@ -51,7 +51,7 @@ Don't worry, we will prepare you well! The event starts with a short course "How
 
 ## Registration
 
-For this event, a registration is mandatory. Plase [register here](https://forms.gle/a4aU2hk87VaymfFMA) before **15.06.2022, 23:59 CEST**!
+For this event, a registration is mandatory. Plase [register here](https://forms.gle/a4aU2hk87VaymfFMA) before **15 June 2022, 23:59 CEST**!
 The event is **free of charge** for participants, but there are costs on our side, so we may have to limit the number of participants. So please be fair and join the kickoff once you have registered. 
 
 
