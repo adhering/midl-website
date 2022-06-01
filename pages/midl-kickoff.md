@@ -14,10 +14,10 @@ opengraph:
 
 
 You are attending your first MIDL? Maybe it is your first in-person conference or even your first conference at all? 
-Or, after long years of virtual events, you feel like your social skills might need a polishing before joining the MIDL-crowd in person again?
-Here is the perfect event for you to kick-off your conference experience!
+Or, after long years of virtual events, do you feel like your social skills might need polishing before joining the MIDL-crowd in person again?
+Here is the perfect event for you to kick off your conference experience!
 
-Whether you are new to the community and don't want to go to the Zürich alone or you are a MIDL veteran who cannot wait to see your peers again to push your excitement for Switzerland: Meet up with with fellow young researchers from all over the world who are going to attend MIDL 2022 in person just before you head off to Zürich.
+Whether you are new to the community and don't want to go to the Zürich alone or you are a MIDL veteran who cannot wait to see your peers again to push your excitement for Switzerland: Meet up with fellow young researchers from all over the world who are going to attend MIDL 2022 in person just before you head off to Zürich.
 
 The event will take place on **29 June 2022** as a **virtual event** via Gather.Town and addresses young researchers (in its broadest sense) that will attend MIDL 2022 in person.
 
