@@ -1,7 +1,7 @@
 ---
 title: "How to MIDL"
 opengraph:
-  image: "/images/winter-workshop/social.jpg"
+  image: "/images/conference-kickoff/Logo_Large.jpg"
 ---
 
 {% from "_macros.html" import button %}
