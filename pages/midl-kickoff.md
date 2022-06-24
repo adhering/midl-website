@@ -32,6 +32,12 @@ Don't worry, we will prepare you well! The event starts with a short course "How
 
 ---
 
+## Drink Recipes
+
+What could be more convenient than getting to know your peers while sipping a nice drink? Luckily, this is not only possible at MIDL 2022 but also at the kickoff at our virtual bar! We sometimes call our barkeepers barmages because they will help you creating amazing cocktails from basically anything you can find in your kitchen (or the last corner of your storage cupboard). However, if you want to make the magic happen a little easier, you can prepare yourself a bit and buy the ingredients for your favourite drink beforehand. You can find your shopping list [here](/images/conference-kickoff/BK_MIDL_Recipes_20220629.pdf).
+
+---
+
 ## Timetable 29 June 2022
 
 (all times CET)
