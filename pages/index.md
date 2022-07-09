@@ -16,6 +16,9 @@ MIDL is organized by the [MIDL Foundation](/foundation.html) and its [Board](/bo
 ### Past editions
 
 [% .cards-mini %]
+<a href="https://2022.midl.io">
+    <img alt="Zürich 2022" src="/cdn-cgi/image/width=170,q=90/images/cards/card-mini-2021.jpg" srcset="/cdn-cgi/image/width=340,q=85,f=auto/images/cards/card-mini-2022.jpg 2x">
+</a>
 <a href="https://2021.midl.io">
     <img alt="Lübeck 2021" src="/cdn-cgi/image/width=170,q=90/images/cards/card-mini-2021.jpg" srcset="/cdn-cgi/image/width=340,q=85,f=auto/images/cards/card-mini-2021.jpg 2x">
 </a>
