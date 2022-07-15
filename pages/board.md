@@ -13,7 +13,7 @@ The [MIDL Foundation](/foundation.html) is governed by an Executive Board consis
 
 ## Additional board members
 
-* [Nikolas Lessmann](https://www.diagnijmegen.nl/people/nikolas-lessmann/), communication
+* [Hoel Kervadec](https://hoel.kervadec.science), communication
 * [Alessa Hering](https://www.mevis.fraunhofer.de/en/employees/alessa-hering.html), satellite events
 * [Jannis Hagenah](https://eng.ox.ac.uk/people/jannis-hagenah/), satellite events
 
