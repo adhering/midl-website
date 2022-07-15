@@ -33,6 +33,13 @@ MIDL is organized by the [MIDL Foundation](/foundation.html) and its [Board](/bo
 </a>
 [% / %]
 
+### Past events
+[% .cards-mini %]
+<a href="/winter-workshop.html">
+    <img alt="Winter Workshop 2021" src="/cdn-cgi/image/width=170,q=90/images/cards/card-large-ww2021.jpg" srcset="/cdn-cgi/image/width=1052,q=85,f=auto/images/cards/card-large-ww2021.jpg 2x">
+</a>
+[% / %]
+
 ---
 
 {% from "_macros.html" import newsletter %}
