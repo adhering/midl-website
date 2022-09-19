@@ -19,7 +19,7 @@ The [MIDL Foundation](/foundation.html) is governed by an Executive Board consis
 
 ---
 
-## Technical committee
+## Program board
 
 The members of the technical committee are responsible for managing the review and paper selection process of the conference, and are appointed typically for 3 years. 
 
