@@ -1,6 +1,7 @@
 ---
 title: Call for MIDL 2025
 ---
+# Call for organizers of MIDL 2025
 
 The MIDL Board is inviting interested researchers to bid for organizing MIDL 2025 or a later edition. If we receive multiple strong bids, we may already decide on locations for MIDL in 2026 and beyond.
 

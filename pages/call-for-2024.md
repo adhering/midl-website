@@ -1,11 +1,12 @@
 ---
 title: Call for MIDL 2024
 ---
+# Call for organizers of MIDL 2024
 
 The MIDL Board is inviting interested researchers to bid for organizing MIDL 2024 or a later edition. If we receive multiple strong bids, we may already decide on locations for MIDL in 2025 and beyond.
 **The deadline to submit a bid is November 30th 2022.**
 
-If you are interested in applying or have any questions, please contact us at [board@midl.io](mailto:board@midl.io).
+If you are interested in applying or have any questions, please contact us at [board@midl.io](mailto:board@midl.io)
 
 ## Financial details
 
