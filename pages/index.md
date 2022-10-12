@@ -1,8 +1,10 @@
-[% .cards .large %]
+<!-- [% .cards .large %] -->
+<center>
 <a href="https://2023.midl.io">
-    <img alt="Nashville 2023" src="/images/cards/card-large-2023.jpg">
+    <img alt="Nashville 2023" src="/images/cards/card-large-2023.jpg" width="50%">
 </a>
-[% / %]
+</center>
+<!-- [% / %] -->
 
 {% from "_macros.html" import newsletter, button %}
 
