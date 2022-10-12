@@ -4,6 +4,9 @@
 </a>
 [% / %]
 
+{% from "_macros.html" import newsletter, button %}
+
+
 Medical Imaging with Deep Learning (MIDL) brings the community of deep learning and medical imaging researchers, clinicians and health-care companies together for in-depth discussion and exchange of ideas. To learn more about MIDL, read our [aims and scope](/aims-and-scope.html) and visit the conference sites listed above and below.
 
 MIDL is organized by the [MIDL Foundation](/foundation.html) and its [Board](/board.html).
@@ -11,6 +14,13 @@ MIDL is organized by the [MIDL Foundation](/foundation.html) and its [Board](/bo
 MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.html)**.
 
 We are soliciting bids to organize **[MIDL 2024](/call-for-2024.html) (deadline to submit a bid Nov. 30 2022)** and [MIDL 2025](/call-for-2025.html).
+
+<p class="centered">
+    <a href="/call-for-challenges.html" class="button">Call for challenges</a>
+    <a href="/call-for-2024.html" class="button">Call for MIDL 2024</a>
+    <a href="/call-for-2025.html" class="button">Call for MIDL 2025</a>
+</p>
+
 
 ---
 
@@ -43,5 +53,4 @@ We are soliciting bids to organize **[MIDL 2024](/call-for-2024.html) (deadline 
 
 ---
 
-{% from "_macros.html" import newsletter %}
 {{ newsletter("midl.io") }}
