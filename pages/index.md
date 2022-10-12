@@ -1,7 +1,4 @@
 [% .cards .large %]
-<a href="https://2022.midl.io">
-    <img alt="Zürich 2022" src="/images/cards/card-large-2022.jpg">
-</a>
 <a href="https://2023.midl.io">
     <img alt="Nashville 2023" src="/images/cards/card-large-2023.jpg">
 </a>
