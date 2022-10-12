@@ -2,7 +2,7 @@
 title: "Board"
 ---
 
-## Executive board
+## Board
 
 The [MIDL Foundation](/foundation.html) is governed by the following board members:
 
@@ -19,7 +19,7 @@ The [MIDL Foundation](/foundation.html) is governed by the following board membe
 
 ## Program board
 
-The members of the technical committee are responsible for managing the review and paper selection process of the conference, and are appointed typically for 3 years. 
+The members of the program board are responsible for managing the review and paper selection process of the conference, and are appointed typically for 3 years. 
 
 * Adrian V. Dalca
 * Adrien Depeursinge
