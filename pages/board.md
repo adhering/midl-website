@@ -6,7 +6,7 @@ title: "Board"
 
 The [MIDL Foundation](/foundation.html) is governed by the following board members:
 
-* [Alessa Hering](https://www.mevis.fraunhofer.de/en/employees/alessa-hering.html), satellite events;
+* [Alessa Hering](https://www.diagnijmegen.nl/people/alessa-hering/), satellite events;
 * [Bram van Ginneken](https://www.diagnijmegen.nl/people/bram-van-ginneken/), treasurer, member of the MIDL Foundation Executive Board;
 * [Geert Litjens](https://www.computationalpathologygroup.eu/members/geert-litjens/), secretary, member of the MIDL Foundation Executive Board;
 * [Hoel Kervadec](https://hoel.kervadec.science), communication;
