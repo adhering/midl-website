@@ -13,7 +13,7 @@ We have decided to partner with [grand-challenge.org](https://grand-challenge.or
 
 ## How to submit?
 
-Requests for organizing MIDL challenges can be submitted continuously and will be processed on a rolling basis. To submit your application, follow [this link](https://grand-challenge.org/challenges/requests/create/). Make sure to indicate that the _Affiliated event_ is MIDL, and make sure to include the _Structured challenge submission form_.
+Requests for organizing MIDL challenges can be submitted continuously and will be processed on a rolling basis. To submit your application, follow [this link](https://grand-challenge.org/challenges/requests/create/). Make sure to indicate that the _Affiliated event_ is MIDL, and make sure to include the [Structured challenge submission form](https://www.biomedical-challenges.org/files/Suppl_2_%20StructuredDescriptionOfAChallengeDesign.pdf) on the [Structured Chalenge Submission System site](https://www.biomedical-challenges.org/).
 
 
 ## What do you get from us?
