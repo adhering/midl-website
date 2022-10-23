@@ -8,7 +8,7 @@
 
 {% from "_macros.html" import newsletter, button %}
 
-
+<br>
 Medical Imaging with Deep Learning (MIDL) brings the community of deep learning and medical imaging researchers, clinicians and health-care companies together for in-depth discussion and exchange of ideas. To learn more about MIDL, read our [aims and scope](/aims-and-scope.html) and visit the conference sites listed above and below.
 
 MIDL is organized by the [MIDL Foundation](/foundation.html) and its [Board](/board.html).
