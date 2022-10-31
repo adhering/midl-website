@@ -10,7 +10,7 @@ opengraph:
 ![MIDL Autumn Academy](/images/autumn-academy/social.jpg)
 
 
-<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Winter Workshop 2021</h1>
+<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Autumn Academy 2022</h1>
 
 Add important and nice information....
 
