@@ -1,5 +1,5 @@
 ---
-title: "Winter workshop"
+title: "Autumn Academy"
 opengraph:
   image: "/images/winter-workshop/social.jpg"
 ---
@@ -12,12 +12,7 @@ opengraph:
 
 <h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Winter Workshop 2021</h1>
 
-The MIDL Foundation is proud to present the launch of its first independent online event series: The MIDL Winter Workshop! Two parallel workshops, specifically designed for young researchers, and an evening event for the whole community.
-
-One thing the pandemic taught us is that even though a virtual event cannot substitute a live conference experience, it can be an easy and comfortable way to bring the community together on a more regular basis. So here it is: The winter event to come together in early December to discuss our ideas before submitting them to MIDL 2022.
-
-The Winter Workshop 2021 will take place on **1 December 2021** as a virtual event using Gather.Town. It will be divided into two workshop tracks that run in parallel followed by the „Glühwein-Lecture“ and get-together. While the latter part is open to the whole community, the workshops are specifically designed to support young researchers in taking their first steps towards authoring a publication or serving as a reviewer.
-Thanks to our sponsor [Fraunhofer IMTE](https://www.imte.fraunhofer.de/en.html), the event will be free of charge. However, a mandatory registration is necessary.
+Add important and nice information....
 
 ---
 
@@ -79,40 +74,5 @@ All available places for this workshop are booked. However, feel free to registe
 * [Alessa Hering](https://www.mevis.fraunhofer.de/en/employees/alessa-hering.html), Fraunhofer MEVIS & Radboudumc Nijmegen, <alessa.hering@mevis.fraunhofer.de>
 * [Jannis Hagenah](https://eng.ox.ac.uk/chi/), Department of Engineering Science, University of Oxford, UK, <jannis.hagenah@eng.ox.ac.uk>
 
-## Sponsor
-
-[% .logos %]
-[![Fraunhofer IMTE](/images/winter-workshop/imte.svg){: width="360" }](https://www.imte.fraunhofer.de/en.html)
-[% / %]
-
----
-
-## Glühwein Recipes
-
-### Glühwein (Mulled Wine) Recipe:
-
-You need:
-
-+ 1 Bottle of dry red wine
-+ 1 Orange
-+ 2 Cinnamon Sticks
-+ 3 Cloves
-+ 4-6 Teaspoons of sugar or honey
-
-Put Wine in cooking pot and warm it up. Attention: Do not cook it, the alcohol would evaporate!
-Slice the orange and at it, together with the other ingredients, to the wine.
-Let the wine infuse for a while. The optimal length depends on your preferences: The longer the stronger. Most recipes recommend one hour of infusion.
-
-Non-alcoholic variant:
-Replace red wine with grape juice. The rest is identical.
 
 
-### Embarrassingly simple Punch Recipe:
-
-You need:
-
-* Apple juice
-* Cinnamon (Sticks or powder)
-
-Add some cinnamon to the apple juice and heat it. Yes, that’s it! It even works in the microwave (we tried it). 
-Also works well with an additional bit of Rum.
