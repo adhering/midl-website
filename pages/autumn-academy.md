@@ -1,13 +1,13 @@
 ---
 title: "Autumn Academy"
 opengraph:
-  image: "/images/winter-workshop/social.jpg"
+  image: "/images/autumn-academy/social.jpg"
 ---
 
 {% from "_macros.html" import button %}
 
 
-![MIDL Winter Workshop](/images/winter-workshop/background_cropped.jpg)
+![MIDL Autumn Academy](/images/autumn-academy/social.jpg)
 
 
 <h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Winter Workshop 2021</h1>
