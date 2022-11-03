@@ -7,7 +7,7 @@ opengraph:
 {% from "_macros.html" import button %}
 
 
-![MIDL Autumn Academy](/images/autumn-academy/social.jpg)
+![MIDL Autumn Academy](/images/autumn-academy/background.jpg)
 
 
 <h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Autumn Academy 2022</h1>
@@ -19,7 +19,7 @@ The Autumn Academy will take place on **30. November 2022** and will start at **
 
 ---
 
-## Tutorial: How to make your research reproducible? ![Portrait of Attila Simko](/images/winter-workshop/pic_tingting.jpg){: class="align-right" width="180" }
+## Tutorial: How to make your research reproducible? ![Portrait of Attila Simko](/images/autumn-academy/attilasimko.jpg){: class="align-right" width="180" }
 
 Concerns about the reproducibility of deep learning research are more prominent than ever, with no clear solution in sight. Providing public source code is a powerful solution for one aspect of reproducibility, however the quality of these repositories vary widely between projects and might cause more harm than good. Evaluating all full paper submissions at MIDL shows that public repositories are becoming increasingly popular, however some tiny design flaws hinder their repeatability and usefulness over time. Based on these results and some commonly encountered problems, MIDL proposed a reproducibility guideline to help authors design a repository for their submission. (Following the guidelines is completely optional and their aim is not to regulate authors, but to help them.) During the tutorial we will discuss source code repositories and the proposed guideline, and through a series of discussion points we will have the chance to make changes to the guideline helping ourselves and future authors. No coding skills are required for the tutorial.
 
