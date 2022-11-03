@@ -12,11 +12,14 @@ opengraph:
 
 <h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Autumn Academy 2022</h1>
 
-Add important and nice information....
+We proudly present the first edition of the next regular online event in the annual calender of MIDL: The Autumn Academy!
+And for this first edition, we chose one of the most important and similarly one of the most under-represented research skills to train: Reproducibility!
+
+
 
 ---
 
-## Glühwein-Lecture ![Portrait of Tingting Zhu](/images/winter-workshop/pic_tingting.jpg){: class="align-right" width="180" }
+## How to make your research reproducible? ![Portrait of Attila Simko](/images/winter-workshop/pic_tingting.jpg){: class="align-right" width="180" }
 
 The Glühwein-Lecture is an honorary keynote to get broader perspectives and novel insights from leading figures in the healthcare technology domain.
 We are happy to announce that this year's Glühwein-Lecture will be held by [Dr. Tingting Zhu](https://eng.ox.ac.uk/people/tingting-zhu/) from the University of Oxford. The topic of the talk will be „Healthcare Technology in Resource-Constrained Settings“.
