@@ -12,42 +12,28 @@ opengraph:
 
 <h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Autumn Academy 2022</h1>
 
-We proudly present the first edition of the next regular online event in the annual calender of MIDL: The Autumn Academy!
+We proudly present the first edition of the next regular online event in the annual calender of MIDL: The Autumn Academy! Feel warmly welcomed to grab a cup of tea, curl up in a cozy blanket in front of your device and join a tutorial to train your research skills.
 And for this first edition, we chose one of the most important and similarly one of the most under-represented research skills to train: Reproducibility!
 
-
-
----
-
-## How to make your research reproducible? ![Portrait of Attila Simko](/images/winter-workshop/pic_tingting.jpg){: class="align-right" width="180" }
-
-The Glühwein-Lecture is an honorary keynote to get broader perspectives and novel insights from leading figures in the healthcare technology domain.
-We are happy to announce that this year's Glühwein-Lecture will be held by [Dr. Tingting Zhu](https://eng.ox.ac.uk/people/tingting-zhu/) from the University of Oxford. The topic of the talk will be „Healthcare Technology in Resource-Constrained Settings“.
-
-Following the lecture, there will be a virtual get-together. Everyone is encouraged to prepare [Glühwein](https://en.wikipedia.org/wiki/Mulled_wine) or non-alcoholic [Punsch](https://en.wikipedia.org/wiki/Punch_(drink)) on their own, you can find recipes below.
+The Autumn Academy will take place on **30. November 2022** and will start at **15:00 CET**. The tutorial will be held virtually via Zoom, and of course, there will be a Get-Together afterwards in our well-established MIDL event center in Gather.Town. Participation will be **free of charge**!
 
 ---
 
-## Workshops
+## Tutorial: How to make your research reproducible? ![Portrait of Attila Simko](/images/winter-workshop/pic_tingting.jpg){: class="align-right" width="180" }
 
-One core part of the Winter Workshop is to support young researchers in taking their first steps towards authoring a publication or serving as a reviewer. Therefore, the event hosts two workshop tracks that will be run in parallel, namely „How to write an award-winning paper“ and „How to write an outstanding review“. Both workshops will feature an introductory tutorial and an intense hands-on session in small groups, guided by an experienced moderator. Due to the strategic date of the Winter Workshop, the participants will be directly prepared to submit to or review for MIDL 2022.
+Concerns about the reproducibility of deep learning research are more prominent than ever, with no clear solution in sight. Providing public source code is a powerful solution for one aspect of reproducibility, however the quality of these repositories vary widely between projects and might cause more harm than good. Evaluating all full paper submissions at MIDL shows that public repositories are becoming increasingly popular, however some tiny design flaws hinder their repeatability and usefulness over time. Based on these results and some commonly encountered problems, MIDL proposed a reproducibility guideline to help authors design a repository for their submission. (Following the guidelines is completely optional and their aim is not to regulate authors, but to help them.) During the tutorial we will discuss source code repositories and the proposed guideline, and through a series of discussion points we will have the chance to make changes to the guideline helping ourselves and future authors. No coding skills are required for the tutorial.
 
-### How to write an award-winning paper ![Portrait of Hoel Kervadec](/images/winter-workshop/pic_hoel.jpg){: class="align-right" width="180" }
+The tutorial will be led by [Attila Simko](https://www.umu.se/en/staff/attila-simko/) from Umea University. 
 
-You want to submit your research to MIDL 2022, but you have troubles putting it all together on 8 pages? You do not have a lot of experience with writing papers, or you just want to impress the reviewers with your next submission? Join this workshop to learn how to make your paper award-winning!
-After a tutorial full of valuable hints, dos and don’ts, there will be an intense hands-on session in smaller groups, guided by an experienced moderator. In this session, you will discuss and fine-tune your own manuscript. So if you are planning to submit to MIDL 2022, bring your first draft and go out with a substantially revised version.
-We are happy that the workshop will be led by [Dr. Hoel Kervadec](https://hoel.kervadec.science) from Erasmus MC. He will be supported by [Annika Reinke](https://www.dkfz.de/en/cami/team/people/Annika_Reinke.html), [Steffen Czolbe](https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Fsteffen-czolbe(1767ec13-391b-470d-aab8-5b0b8c802cc0)%2Fpublications.html), [Hristina Uzunova](https://www.imi.uni-luebeck.de/institut/mitarbeiter/uzunova-hristina.html), [Dr. David Kohan Marzagão](https://kohan.uk) and [Dr. Nikolas Lessmann](https://www.diagnijmegen.nl/people/nikolas-lessmann/).
+---
 
-All available places for this workshop are booked. However, feel free to register for the Glühwein-Lecture.
+## Background: Reproducibility in MIDL
 
+From its very beginnings in 2018, MIDL has always been commited to open science and transparency. The repsoducibility of research, especially the reproducibility of code, models and implemented experiments, is a crucial part of that mission. However, there are typically few (or only very hidden) incentives to take that extra effort on your paper, and until now, MIDL has not been a big excemption in that regard. Recently, a highly motivated team from Umea University in Sweden provided evidence that [only 22% of all MIDL papers are really reproducible](https://arxiv.org/abs/2210.11146). Luckily, they already proposed possible guidelines on reproducibility of MIDL papers, and we are now making these an integral part of our strategy and give our best to spread the word in the community. We firmly believe that the majority of not reproducible papers is not due to an active decision but to a lack of awareness. And what is the solution for that? An Autumn Academy solely dedicated to Reproducibility, open to the whole community!
 
-### How to write an outstanding review ![Portrait of Ender Konukoglu](/images/winter-workshop/pic_ender.jpg){: class="align-right" width="180" }
+Fact is: Reproducibility will become more and more important in the next years and will become a part of the review process in future MIDL editions. But besides that, your paper will benefit a lot since more people can use your methods more easily and thus your work will have a much higher impact.
+So, there are enough incentives to already join the movement today. And the easiest step is to join our Autumn Academy!
 
-You were invited to review for MIDL 2022, for another venue or even a journal? You want to take your first steps in writing reviews independently, or you just want t become more efficient in doing so? Join this workshop to learn how to write outstanding reviews.
-After a tutorial loaded with hints from experienced, senior colleagues, you will discuss and improve your very own reviews in small groups. You will learn how to open up your own mind to grasp a manuscript from different perspectives, and you will rate exemplary reviews.
-We are proud that the workshop will be led by [Prof. Dr. Ender Konukoglu](http://people.ee.ethz.ch/~kender/) from ETH Zürich. He will be supported by [Prof. Dr. Mattias Heinrich](https://www.imi.uni-luebeck.de/institut/mitarbeiter/heinrich-mattias.html) and [Prof. Dr. Maria Vakalopoulou](https://www.centralesupelec.fr/en/msc-artificial-intelligence-faculty).
-
-All available places for this workshop are booked. However, feel free to register for the Glühwein-Lecture.
 
 ---
 
