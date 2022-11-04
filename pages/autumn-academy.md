@@ -44,24 +44,21 @@ So, there are enough incentives to already join the movement today. And the easi
 [% .invisible-table %]
 | Program                                              | Time Slot         |
 | --------                                             | ---------         |
-| Check-In and Coffee Round                            | 13:30 - 14:00     |
-| Welcome for Workshop Participants                    | 14:00 - 14:15     |
-| Workshops: Tutorial Talks (both tracks)              | 14:15 - 15:15     |
-| Break                                                | 15:15 - 15:30     |
-| Workshops: Hands-on Session Part 1 (both tracks)     | 15:30 - 16:30     |
-| Break                                                | 16:45 - 17:00     |
-| Workshops: Hands-on Session Part 2 (both tracks)     | 17:00 - 17:45     |
-| Workshops: Closing                                   | 17:45 - 18:00     |
-| Break (Glühwein Preparation from 18:30 on)           | 18:00 - 19:00     |
-| Welcome for Glühwein Lecture (open for all)          | 19:00 - 19:15     |
-| Glühwein Lecture                                     | 19:15 - 20:00     |
-| Get-Together                                         | starting 20:00    |
+| Check-In and Coffee Round                            | 14:45 - 15:00     |
+| Welcome for Academy Participants                     | 15:00 - 15:15     |
+| Tutorial Part 1                                      | 15:15 - 16:00     |
+| Break                                                | 16:00 - 16:15     |
+| Tutorial Part 2                                      | 16:15 - 17:00     |
+| Break                                                | 17:15 - 17:30     |
+| Tutorial Part 3                                      | 17:30 - 18:00     |
+| Closing                                              | 18:00 - 18:10     |
+| Get  Together in Gather.Town                         | starting 18:15    |
 [% / %]
 
 ## Organization
 
-* [Alessa Hering](https://www.mevis.fraunhofer.de/en/employees/alessa-hering.html), Fraunhofer MEVIS & Radboudumc Nijmegen, <alessa.hering@mevis.fraunhofer.de>
-* [Jannis Hagenah](https://eng.ox.ac.uk/chi/), Department of Engineering Science, University of Oxford, UK, <jannis.hagenah@eng.ox.ac.uk>
+* [Alessa Hering](https://www.diagnijmegen.nl/people/alessa-hering/), Radboudumc Nijmegen & Fraunhofer MEVIS, <alessa.hering@radboudumc.nl>
+* [Jannis Hagenah](https://eng.ox.ac.uk/chi/), Department of Engineering Science, University of Oxford, <jannis.hagenah@eng.ox.ac.uk>
 
 
 
