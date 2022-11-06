@@ -17,6 +17,8 @@ And for this first edition, we chose one of the most important and similarly one
 
 The Autumn Academy will take place on **30. November 2022** and will start at **15:00 CET**. The tutorial will be held virtually via Zoom, and of course, there will be a Get-Together afterwards in our well-established MIDL event center in Gather.Town. Participation will be **free of charge**!
 
+To get the zoom link, please register via this link: https://forms.gle/F7oe1n6oGg3rBXNo7.
+
 ---
 
 ## Tutorial: How to make your research reproducible? ![Portrait of Attila Simko](/images/autumn-academy/attilasimko.jpg){: class="align-right" width="180" }
