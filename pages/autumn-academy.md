@@ -4,7 +4,7 @@ opengraph:
   image: "/images/autumn-academy/background.jpg"
 ---
 
-# Autumn Academy 2022
+# Autumn Academy 2022: How to make your research reproducible?
 <center>
     <img alt="MIDL Autumn Academy" src="/images/autumn-academy/background.jpg" width="75%">
 </center>
